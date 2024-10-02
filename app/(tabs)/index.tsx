@@ -4,7 +4,7 @@ import { View, Text, StyleSheet } from 'react-native';
 const IndexScreen = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Witaj w mojej aplikacji!</Text>
+      <Text style={styles.title}>Witaj w mojej aplikacji!!!!!!!!!!!!!!!!!!</Text>
     </View>
   );
 };
